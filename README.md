@@ -1,5 +1,5 @@
 # Live Output
-[Click here]()
+[Click here](https://abiekatkam.github.io/SocialProofSection/)
 
 # Frontend Mentor - Social proof section
 

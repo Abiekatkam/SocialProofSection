@@ -1,4 +1,4 @@
-# Live Output
+# Live Output Of the project
 [Click here](https://abiekatkam.github.io/SocialProofSection/)
 
 # Frontend Mentor - Social proof section
